@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dari</h1>
 <h3 align="center">A FR/EN fullstack developer based in Lyon, France</h3>
 
-- 🔭 I’m currently working on [Ouicity](www.ouicity.me)
+- 🔭 I’m currently collaborating with my LeWagon team on [Ouicity](www.ouicity.me)
 
 - 🌱 I’m currently learning **React, Vue and NodeJS**
 
