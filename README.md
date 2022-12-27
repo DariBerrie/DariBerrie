@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dari</h1>
 <h3 align="center">A FR/EN fullstack developer based in Lyon, France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dariberrie" alt="dariberrie" /></a> </p>
-
 - 🔭 I’m currently working on [Ouicity](www.ouicity.me)
 
 - 🌱 I’m currently learning **React, Vue and NodeJS**
