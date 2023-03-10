@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Ruby on Rails & Javascript**
 
-- 📫 How to reach me **darigoldman@gmail.com**
+- 📫 How to reach me **hello@dari.codes**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/darigoldman/](https://www.linkedin.com/in/darigoldman/)
 
