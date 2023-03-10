@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dari</h1>
-<h3 align="center">A FR/EN fullstack developer based in Lyon, France</h3>
+<h3 align="center">A FR/EN fullstack developer and RoR TA based in Lyon, France</h3>
 
-- 🔭 I’m currently collaborating with my LeWagon team on [Ouicity](www.ouicity.me)
+- 🔭 I’m currently collaborating with a team on [Illuminate](https://github.com/SIFAR101/Illuminate), an accessible beauty shopping app.
 
 - 🌱 I’m currently learning **React, Vue and NodeJS**
 
