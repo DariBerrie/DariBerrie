@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Ruby on Rails & Javascript**
 
-- 📫 How to reach me **hello@dari.codes**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/darigoldman/](https://www.linkedin.com/in/darigoldman/)
 
 - ⚡ Fun fact **I won my elementary school spelling bee.**
