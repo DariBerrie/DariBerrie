@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working with [ViaEurope](https://www.viaeurope.com/) as a Technical Support Engineer and [Le Wagon](https://www.lewagon.com/) as a Web Development instructor.
 
-- 🌱 I’m currently diving deeper into **front-end development frameworks with IBM.**
-
 - 👯 I’m looking to collaborate on **SaaS projects for a social good**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DariBerrie](https://github.com/DariBerrie)
